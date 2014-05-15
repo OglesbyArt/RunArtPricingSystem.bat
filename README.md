@@ -1,2 +1,1 @@
-RunArtPricingSystem.bat
-=======================
+java ArtPricingSystem
